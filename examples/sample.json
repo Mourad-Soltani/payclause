@@ -1,0 +1,12 @@
+{
+  "client": "Nora Berg",
+  "project": "Autumn catalog",
+  "currency": "EUR",
+  "total": 1200,
+  "deposit_percent": 50,
+  "net_days": 14,
+  "start_date": "2026-10-06",
+  "milestones": [
+    {"name": "Final files", "date": "2026-10-28", "weight": 1}
+  ]
+}
